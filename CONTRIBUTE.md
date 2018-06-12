@@ -7,4 +7,5 @@ CONTRIBUTE
     - Improvement: `improve#???`
     - Proof of concept: `poc#???`
     - Patch old version: `patch#???`
+    - Unit testing: `testing#???`
 * Branch names could optionally contain other information about what is developed, like `feature_LoginSystem#12`
