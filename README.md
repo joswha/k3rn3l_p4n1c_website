@@ -4,4 +4,5 @@ k3rn3l_p4n1c website
 * Do you want to contribute?
     * Check the coding style: https://google.github.io/styleguide/pyguide.html
     * Check ROADMAP.md
+    * Check CONTRIBUTE.md
     * Join discord (*link here*)
