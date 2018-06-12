@@ -5,6 +5,7 @@ k3rn3l_p4n1c website
     * Prepare the environment by creating a Python Virtenv, install requirements and have fun.
     ```
     virtualenv -p /usr/bin/python3 k3rn3l_p4n1c_website
+    source k3rn3l_p4n1c_website/bin/activate
     pip install -r requirements.txt
     ```
     * Check the coding style: https://google.github.io/styleguide/pyguide.html
