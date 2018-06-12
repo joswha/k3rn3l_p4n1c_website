@@ -9,3 +9,4 @@ CONTRIBUTE
     - Patch old version: `patch#???`
     - Unit testing: `testing#???`
 * Branch names could optionally contain other information about what is developed, like `feature_LoginSystem#12`
+* Create new branch using `git checkout -b <branch_name>`
